@@ -23,7 +23,7 @@ public static void main(String[] args) {    //START OF MAIN
 StudentClient obj = new StudentClient ();   //creating an object of Student class
 
 int menu_choice;    //variable that stores the menu choice of user
-boolean flag=false; //boolean variables to exit from the menu
+boolean flag = false; //boolean variables to exit from the menu
 
 Student[] stu = new Student [25]; //array declaration with default size of 25
 
