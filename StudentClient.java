@@ -4,7 +4,7 @@
  * Student ID: 33243485
  * Date: 22/10/2018
  * File name: StudentClient.java
- * Purpose: Supplies hard coded array to Student class constructor, displays a menu and performs operations involving students details and marks.
+ * Purpose: Supplies hard coded student arrays to Student class constructor, displays a menu and performs operations involving students details and marks.
  * Assumptions: Assuming that valid values are stored in the array, and in proper order.
  *              
  **/
